@@ -6,8 +6,8 @@
 * Get User details
 * Retrieve tweets.
 * Count the number of followers.
-* Determine the sentiments of people Tweeting using a certain has tag.
-* Determining the location, timezone and language of people Tweeting using a certain has tag.
+* Determine the sentiments of people Tweeting using a certain hashtag.
+* Determining the location, timezone and language of people Tweeting using a certain hashtag.
 * Comparision of tweets by Narendera Modi and Donald Trump.
 * Determining Top Usage.
 * Tweet a message from your account.
