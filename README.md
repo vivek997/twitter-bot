@@ -1,6 +1,6 @@
 # Twitter-Bot
 
-##What should our Twitter-Bot application be able to do?
+## What should our Twitter-Bot application be able to do?
 
 * Access the API
 * Get User details
@@ -12,6 +12,6 @@
 * Determining Top Usage.
 * Tweet a message from your account.
 
-######Enter your API Key, Access Token & Paralleldots API in main file.
+###### Enter your API Key, Access Token & Paralleldots API in main file.
 
-######Run main.py
+###### Run main.py
